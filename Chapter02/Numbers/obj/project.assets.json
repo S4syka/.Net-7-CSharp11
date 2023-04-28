@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter02\\Numbers\\Numbers.csproj",
       "projectName": "Numbers",
-      "projectPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
+      "projectPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter02\\Numbers\\Numbers.csproj",
       "packagesPath": "C:\\Users\\erekl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter02\\Chapter02\\Numbers\\obj\\",
+      "outputPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter02\\Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
