@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\bin\Debug\net7.0\Numbers.exe
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\bin\Debug\net7.0\Numbers.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\bin\Debug\net7.0\Numbers.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\bin\Debug\net7.0\Numbers.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\bin\Debug\net7.0\Numbers.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\Numbers.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\Numbers.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\refint\Numbers.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\Numbers.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\Numbers.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Numbers\obj\Debug\net7.0\ref\Numbers.dll

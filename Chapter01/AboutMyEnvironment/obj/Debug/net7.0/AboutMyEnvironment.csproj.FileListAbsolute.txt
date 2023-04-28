@@ -1,0 +1,15 @@
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.exe
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.deps.json
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.runtimeconfig.json
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.dll
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.pdb
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.csproj.AssemblyReference.cache
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.AssemblyInfo.cs
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.dll
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\refint\AboutMyEnvironment.dll
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.pdb
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.genruntimeconfig.cache
+C:\Users\erekl\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\ref\AboutMyEnvironment.dll

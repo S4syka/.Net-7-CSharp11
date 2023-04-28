@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.exe
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\refint\Vocabulary.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Chapter02\Vocabulary\obj\Debug\net7.0\ref\Vocabulary.dll
