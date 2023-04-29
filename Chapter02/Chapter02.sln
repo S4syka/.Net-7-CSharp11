@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formatting", "Formatting\Fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arguments", "Arguments\Arguments.csproj", "{4691F7EE-DCD2-428B-8C46-4E3A5DB77ACC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncConsole", "AsyncConsole\AsyncConsole.csproj", "{6B93BFFD-A597-4286-9E2C-60F3EC085F89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4691F7EE-DCD2-428B-8C46-4E3A5DB77ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4691F7EE-DCD2-428B-8C46-4E3A5DB77ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4691F7EE-DCD2-428B-8C46-4E3A5DB77ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B93BFFD-A597-4286-9E2C-60F3EC085F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B93BFFD-A597-4286-9E2C-60F3EC085F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B93BFFD-A597-4286-9E2C-60F3EC085F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B93BFFD-A597-4286-9E2C-60F3EC085F89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

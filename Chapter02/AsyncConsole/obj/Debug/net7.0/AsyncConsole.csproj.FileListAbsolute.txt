@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.exe
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\refint\AsyncConsole.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\AsyncConsole\obj\Debug\net7.0\ref\AsyncConsole.dll
