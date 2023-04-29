@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\bin\Debug\net7.0\Operators.exe
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\bin\Debug\net7.0\Operators.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\bin\Debug\net7.0\Operators.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\Operators.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\Operators.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\Operators\obj\Debug\net7.0\ref\Operators.dll
