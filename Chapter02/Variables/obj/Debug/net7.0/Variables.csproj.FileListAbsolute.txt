@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\bin\Debug\net7.0\Variables.exe
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\bin\Debug\net7.0\Variables.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\bin\Debug\net7.0\Variables.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\bin\Debug\net7.0\Variables.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\bin\Debug\net7.0\Variables.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\Variables.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\Variables.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\Variables.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\Variables.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\refint\Variables.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\Variables.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\Variables.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Variables\obj\Debug\net7.0\ref\Variables.dll
