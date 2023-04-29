@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{502DB0AE-DEF4-4235-9652-A3A590CCDF59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanOperators", "BooleanOperators\BooleanOperators.csproj", "{8B24E66B-1D9C-48AD-A1F6-04AAB479FDB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{502DB0AE-DEF4-4235-9652-A3A590CCDF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{502DB0AE-DEF4-4235-9652-A3A590CCDF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{502DB0AE-DEF4-4235-9652-A3A590CCDF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B24E66B-1D9C-48AD-A1F6-04AAB479FDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B24E66B-1D9C-48AD-A1F6-04AAB479FDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B24E66B-1D9C-48AD-A1F6-04AAB479FDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B24E66B-1D9C-48AD-A1F6-04AAB479FDB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
