@@ -1,0 +1,16 @@
+﻿WriteLine("----------------------------------------------------------------------------------------------------");
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-30}", "Type", "Byte(s) of memory", "Min", "Max");
+WriteLine("----------------------------------------------------------------------------------------------------");
+WriteLine("----------------------------------------------------------------------------------------------------");
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(sbyte), sbyte.MinValue, sbyte.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(byte), byte.MinValue, byte.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(short), short.MinValue, short.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(ushort), ushort.MinValue, ushort.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(int), int.MinValue, int.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(uint), uint.MinValue, uint.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(long), long.MinValue, long.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(ulong), ulong.MinValue, ulong.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(float), float.MinValue, float.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(double), double.MinValue, double.MaxValue);
+WriteLine("{0,-30}{1,-25}{2,-30}{3,-40}", "sbyte", sizeof(decimal), decimal.MinValue, decimal.MaxValue);
+WriteLine("----------------------------------------------------------------------------------------------------");

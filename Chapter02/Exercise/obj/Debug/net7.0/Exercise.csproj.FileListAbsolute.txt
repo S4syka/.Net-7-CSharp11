@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\Exercise.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\Exercise.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\bin\Debug\net7.0\Exercise.exe
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\bin\Debug\net7.0\Exercise.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\bin\Debug\net7.0\Exercise.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\bin\Debug\net7.0\Exercise.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\bin\Debug\net7.0\Exercise.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\Exercise.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\refint\Exercise.dll
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\Exercise.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\Exercise.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter02\Exercise\obj\Debug\net7.0\ref\Exercise.dll
