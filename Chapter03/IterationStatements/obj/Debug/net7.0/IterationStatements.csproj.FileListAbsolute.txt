@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.exe
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\refint\IterationStatements.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\IterationStatements\obj\Debug\net7.0\ref\IterationStatements.dll

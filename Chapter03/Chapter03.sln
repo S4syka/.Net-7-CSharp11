@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseAndShiftOperators", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{E9965CC5-8C2B-48EC-A21F-22F578818768}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements", "IterationStatements\IterationStatements.csproj", "{BD803403-5FA3-452B-8FE8-726D942E7514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{15C63C2E-1AE4-4219-A890-D7138155604C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{E9965CC5-8C2B-48EC-A21F-22F578818768}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9965CC5-8C2B-48EC-A21F-22F578818768}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9965CC5-8C2B-48EC-A21F-22F578818768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD803403-5FA3-452B-8FE8-726D942E7514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD803403-5FA3-452B-8FE8-726D942E7514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD803403-5FA3-452B-8FE8-726D942E7514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD803403-5FA3-452B-8FE8-726D942E7514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C63C2E-1AE4-4219-A890-D7138155604C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C63C2E-1AE4-4219-A890-D7138155604C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C63C2E-1AE4-4219-A890-D7138155604C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C63C2E-1AE4-4219-A890-D7138155604C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

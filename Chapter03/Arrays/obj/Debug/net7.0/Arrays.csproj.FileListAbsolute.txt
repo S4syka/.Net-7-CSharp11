@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\bin\Debug\net7.0\Arrays.exe
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\bin\Debug\net7.0\Arrays.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\bin\Debug\net7.0\Arrays.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\Arrays.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\Arrays.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\Arrays\obj\Debug\net7.0\ref\Arrays.dll
