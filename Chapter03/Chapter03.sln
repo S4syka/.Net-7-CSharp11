@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{502DB0AE-DEF4-4235-9652-A3A590CCDF59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{502DB0AE-DEF4-4235-9652-A3A590CCDF59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanOperators", "BooleanOperators\BooleanOperators.csproj", "{8B24E66B-1D9C-48AD-A1F6-04AAB479FDB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanOperators", "BooleanOperators\BooleanOperators.csproj", "{8B24E66B-1D9C-48AD-A1F6-04AAB479FDB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseAndShiftOperators", "BitwiseAndShiftOperators\BitwiseAndShiftOperators.csproj", "{BE92D6F6-EFC0-46E5-84B7-305026F8BF9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseAndShiftOperators", "BitwiseAndShiftOperators\BitwiseAndShiftOperators.csproj", "{BE92D6F6-EFC0-46E5-84B7-305026F8BF9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{E9965CC5-8C2B-48EC-A21F-22F578818768}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{E9965CC5-8C2B-48EC-A21F-22F578818768}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements", "IterationStatements\IterationStatements.csproj", "{BD803403-5FA3-452B-8FE8-726D942E7514}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterationStatements", "IterationStatements\IterationStatements.csproj", "{BD803403-5FA3-452B-8FE8-726D942E7514}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{15C63C2E-1AE4-4219-A890-D7138155604C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{15C63C2E-1AE4-4219-A890-D7138155604C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{1C225975-22C6-46FD-BD06-E9FDC491E44F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{1C225975-22C6-46FD-BD06-E9FDC491E44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{29BA4F9F-C08C-41B5-886E-0204652B9C79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1C225975-22C6-46FD-BD06-E9FDC491E44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C225975-22C6-46FD-BD06-E9FDC491E44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C225975-22C6-46FD-BD06-E9FDC491E44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BA4F9F-C08C-41B5-886E-0204652B9C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BA4F9F-C08C-41B5-886E-0204652B9C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BA4F9F-C08C-41B5-886E-0204652B9C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BA4F9F-C08C-41B5-886E-0204652B9C79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

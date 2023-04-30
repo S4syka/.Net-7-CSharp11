@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.exe
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\refint\HandlingExceptions.dll
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter03\HandlingExceptions\obj\Debug\net7.0\ref\HandlingExceptions.dll
