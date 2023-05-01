@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\bin\Debug\net7.0\HotReloading.exe
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\bin\Debug\net7.0\HotReloading.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\bin\Debug\net7.0\HotReloading.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\bin\Debug\net7.0\HotReloading.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\bin\Debug\net7.0\HotReloading.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\refint\HotReloading.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\ref\HotReloading.dll
