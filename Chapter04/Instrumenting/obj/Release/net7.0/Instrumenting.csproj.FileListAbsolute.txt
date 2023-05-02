@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.exe
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\refint\Instrumenting.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Release\net7.0\ref\Instrumenting.dll
