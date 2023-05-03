@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotReloading", "HotReloadin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{3B53F96F-CDD9-4034-8F15-7FBAA6E5AB06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{6B4B668C-A1A3-45F3-BBDB-1351EA672B55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{6B4B668C-A1A3-45F3-BBDB-1351EA672B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibUnitTests", "CalculatorLibUnitTests\CalculatorLibUnitTests.csproj", "{346B52C0-04F2-4DDA-901C-DE147C1C7529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorLibUnitTests", "CalculatorLibUnitTests\CalculatorLibUnitTests.csproj", "{346B52C0-04F2-4DDA-901C-DE147C1C7529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsLib", "PrimeFactorsLib\PrimeFactorsLib.csproj", "{4398DE63-57BF-4342-A6D5-8E028940E76D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsLibUnitTests", "PrimeFactorsLibUnitTests\PrimeFactorsLibUnitTests.csproj", "{0E203DB3-B22B-40B2-A645-2829999DD280}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{346B52C0-04F2-4DDA-901C-DE147C1C7529}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{346B52C0-04F2-4DDA-901C-DE147C1C7529}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{346B52C0-04F2-4DDA-901C-DE147C1C7529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4398DE63-57BF-4342-A6D5-8E028940E76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4398DE63-57BF-4342-A6D5-8E028940E76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4398DE63-57BF-4342-A6D5-8E028940E76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4398DE63-57BF-4342-A6D5-8E028940E76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E203DB3-B22B-40B2-A645-2829999DD280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E203DB3-B22B-40B2-A645-2829999DD280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E203DB3-B22B-40B2-A645-2829999DD280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E203DB3-B22B-40B2-A645-2829999DD280}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

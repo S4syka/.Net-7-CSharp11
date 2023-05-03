@@ -1,0 +1,12 @@
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\bin\Debug\net7.0\PrimeFactorsLib.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\bin\Debug\net7.0\PrimeFactorsLib.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\bin\Debug\net7.0\PrimeFactorsLib.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\refint\PrimeFactorsLib.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\ref\PrimeFactorsLib.dll
