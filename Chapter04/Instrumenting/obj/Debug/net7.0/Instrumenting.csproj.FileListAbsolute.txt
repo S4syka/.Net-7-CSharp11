@@ -13,3 +13,14 @@ C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Debug\net7.0\refint\Ins
 C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.pdb
 C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.genruntimeconfig.cache
 C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Debug\net7.0\ref\Instrumenting.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.csproj.CopyComplete
+C:\Users\erekl\mycs11dotnet7\Chapter04\Instrumenting\bin\Debug\net7.0\appsettings.json
