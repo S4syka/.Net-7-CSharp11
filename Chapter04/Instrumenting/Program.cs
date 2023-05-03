@@ -31,4 +31,7 @@ Trace.WriteLineIf(ts.TraceWarning, "Trace warning!");
 Trace.WriteLineIf(ts.TraceInfo, "Trace info!");
 Trace.WriteLineIf(ts.TraceVerbose, "Trace verbose!");
 
+int randomNumber = 12;
+LogSourceDetails(randomNumber == 12);
+
 Console.ReadLine();
