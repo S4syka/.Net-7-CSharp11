@@ -1,0 +1,10 @@
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.dll
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.dll
+C:\Users\erekl\mycs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.pdb

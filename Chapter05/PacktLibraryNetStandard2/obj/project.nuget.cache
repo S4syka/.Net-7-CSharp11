@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p6XUyjLRGlklhjQqepFh0HX1knhnpiT/KGwXnS13i8WjMPm7Aalj26zP7rdtBXyhVM6qCeLrHUcr8OukBGzqNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erekl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\erekl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
