@@ -50,3 +50,13 @@ WriteLine(bob.GetOrigin());
 (string? name, DateTime dob, WondersOfTheAncientWorld fav) = bob;
 
 WriteLine(fav);
+
+int number = 5; // change to -1 to make the exception handling 
+try
+{
+ WriteLine($"{number}! is {Person.Factorial(number)}");
+}
+catch (Exception ex)
+{
+    WriteLine($"{ex.GetType()} says: {ex.Message} number was {number}.");
+}

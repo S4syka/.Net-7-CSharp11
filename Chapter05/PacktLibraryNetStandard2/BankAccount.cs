@@ -2,7 +2,7 @@
 
 public class BankAccount
 {
-    public string AccountName;
+    public string? AccountName;
 
     public decimal Balance;
 

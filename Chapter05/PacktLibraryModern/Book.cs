@@ -18,5 +18,4 @@ public class Book
         Isbn = isbn;
         Title = title;
     }
-
 }
