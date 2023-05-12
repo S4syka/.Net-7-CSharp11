@@ -84,3 +84,4 @@ foreach (Passenger passenger in passengers)
     WriteLine($"Flight costs {flightCost:C} for {passenger}");
 }
 
+ImmutableAnimal koshka = new("Kiki", "Koshka");
