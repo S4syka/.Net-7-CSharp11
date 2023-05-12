@@ -15,7 +15,7 @@ public partial class Person
         }
 
         return localFactorial(number);
-
+    
         int localFactorial(int localNumber) // local function
         {
             if (localNumber == 0) return 1;

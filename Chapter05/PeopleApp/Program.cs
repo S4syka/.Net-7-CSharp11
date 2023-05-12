@@ -54,9 +54,33 @@ WriteLine(fav);
 int number = 5; // change to -1 to make the exception handling 
 try
 {
- WriteLine($"{number}! is {Person.Factorial(number)}");
+    WriteLine($"{number}! is {Person.Factorial(number)}");
 }
 catch (Exception ex)
 {
     WriteLine($"{ex.GetType()} says: {ex.Message} number was {number}.");
 }
+
+Passenger[] passengers = {
+    new FirstClassPassenger { AirMiles = 1_419, Name = "Suman" },
+    new FirstClassPassenger { AirMiles = 16_562, Name = "Lucy" },
+    new BusinessClassPassenger { Name = "Janice" },
+    new CoachClassPassenger { CarryOnKG = 25.7, Name = "Dave" },
+    new CoachClassPassenger { CarryOnKG = 0, Name = "Amit" },
+};
+
+foreach (Passenger passenger in passengers)
+{
+    decimal flightCost = passenger switch
+    {
+        FirstClassPassenger { AirMiles: > 35000 } => 1500,
+        FirstClassPassenger { AirMiles: > 15000 } => 1750M,
+        FirstClassPassenger => 2000M,
+        BusinessClassPassenger => 1000M,
+        CoachClassPassenger { CarryOnKG: < 10.0 } => 500M,
+        CoachClassPassenger _ => 650M,
+        _ => 800M
+    };
+    WriteLine($"Flight costs {flightCost:C} for {passenger}");
+}
+
