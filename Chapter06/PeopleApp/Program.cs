@@ -1,23 +1,10 @@
 ﻿using Packt.Shared;
 
-static void Harry_Shout(object? sender, EventArgs e)
-{
-    if (sender == null)
-    {
-        return;
-    }
-
-    Person? p = sender as Person;
-    if (p is null) return;
-
-    WriteLine($"{p.Name} is this angry: {p.AngerLevel}.");
-}
-
-Person harry = new()
-{
-    Name = "Harry",
-    DateOfBirth = new(year: 2001, month: 3, day: 25)
-};
+//Person harry = new()
+//{
+//    Name = "Harry",
+//    DateOfBirth = new(year: 2001, month: 3, day: 25)
+//};
 
 //harry.WriteToConsole();
 
@@ -42,12 +29,25 @@ Person harry = new()
 ////lookupIntString.Add(key: harry, value: "Delta"); //Compilation error
 //lookupIntString.Add(key: 4, value: "Delta");
 
-harry.Shout += Harry_Shout;
+//harry.Shout += Harry_Shout;
 
-harry.Poke();
-harry.Poke();
-harry.Poke();
-harry.Poke();
+//harry.Poke();
+//harry.Poke();
+//harry.Poke();
+//harry.Poke();
 
-delegate int DelegateWithMatchingSignature(string s);
+Person?[] people =
+{
+ null,
+ new() { Name = "Simon" },
+ new() { Name = "Jenny" },
+ new() { Name = "Adam" },
+ new() { Name = null },
+ new() { Name = "Richard" }
+};
 
+OutputPeopleNames(people, "Initial list of people:");
+
+Array.Sort(people);
+
+OutputPeopleNames(people, "After sorting using Person's IComparable implementation:");
