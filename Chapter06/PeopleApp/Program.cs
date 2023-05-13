@@ -48,6 +48,6 @@ Person?[] people =
 
 OutputPeopleNames(people, "Initial list of people:");
 
-Array.Sort(people);
+Array.Sort(people, new PersonComparer());
 
 OutputPeopleNames(people, "After sorting using Person's IComparable implementation:");
