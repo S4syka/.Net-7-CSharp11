@@ -36,18 +36,29 @@
 //harry.Poke();
 //harry.Poke();
 
-Person?[] people =
+//Person?[] people =
+//{
+// null,
+// new() { Name = "Simon" },
+// new() { Name = "Jenny" },
+// new() { Name = "Adam" },
+// new() { Name = null },
+// new() { Name = "Richard" }
+//};
+
+//OutputPeopleNames(people, "Initial list of people:");
+
+//Array.Sort(people, new PersonComparer());
+
+//OutputPeopleNames(people, "After sorting using Person's IComparable implementation:");
+
+Employee john = new()
 {
- null,
- new() { Name = "Simon" },
- new() { Name = "Jenny" },
- new() { Name = "Adam" },
- new() { Name = null },
- new() { Name = "Richard" }
+    Name = "John Jones",
+    DateOfBirth = new(year: 1990, month: 7, day: 28)
 };
+//john.WriteToConsole();
 
-OutputPeopleNames(people, "Initial list of people:");
-
-Array.Sort(people, new PersonComparer());
-
-OutputPeopleNames(people, "After sorting using Person's IComparable implementation:");
+john.EmployeeCode = "JJ001";
+john.HireDate = new(year: 2014, month: 11, day: 23);
+WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");

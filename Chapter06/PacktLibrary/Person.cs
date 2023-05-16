@@ -8,7 +8,7 @@ public class Person : IComparable<Person>
     public string? Name { get; set; }
     public DateTime DateOfBirth { get; set; }
 
-    public void WriteToConsole()
+    public virtual void WriteToConsole()
     {
         WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
     }
@@ -44,4 +44,10 @@ public class Person : IComparable<Person>
 
         return position;
     }
+
+    public override string ToString()
+    {
+        return $"{Name} is a {base.ToString()}";
+    }
+
 }
