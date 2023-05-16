@@ -52,31 +52,13 @@
 
 //OutputPeopleNames(people, "After sorting using Person's IComparable implementation:");
 
-//Employee john = new()
-//{
-//    Name = "John Jones",
-//    DateOfBirth = new(year: 1990, month: 7, day: 28)
-//};
-////john.WriteToConsole();
+Employee john = new()
+{
+    Name = "John Jones",
+    DateOfBirth = new(year: 1990, month: 7, day: 28)
+};
+//john.WriteToConsole();
 
-//john.EmployeeCode = "JJ001";
-//john.HireDate = new(year: 2014, month: 11, day: 23);
-//WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
-
-string email1 = "ekebichi@gmail.com";
-string email2 = "akaki&test.com";
-
-WriteLine("{0} is a valid e-mail address: {1}",
- arg0: email1,
- arg1: StringExtensions.IsValidEmail(email1));
-WriteLine("{0} is a valid e-mail address: {1}",
- arg0: email2,
- arg1: StringExtensions.IsValidEmail(email2));
-
-
-WriteLine("{0} is a valid e-mail address: {1}",
- arg0: email1,
- arg1: email1.IsValidEmail());
-WriteLine("{0} is a valid e-mail address: {1}",
- arg0: email2,
- arg1: email2.IsValidEmail());
+john.EmployeeCode = "JJ001";
+john.HireDate = new(year: 2014, month: 11, day: 23);
+WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
