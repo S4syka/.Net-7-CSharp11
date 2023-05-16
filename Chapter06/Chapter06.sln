@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PacktLibrary", "PacktLibrar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleApp", "PeopleApp\PeopleApp.csproj", "{80EACF51-4AF7-44EE-8D9D-85DB7B7AF716}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullHandling", "NullHandling\NullHandling.csproj", "{56F46FA3-B523-4BF5-BE9E-6E8AF3ED327F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullHandling", "NullHandling\NullHandling.csproj", "{56F46FA3-B523-4BF5-BE9E-6E8AF3ED327F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAnalyzer", "CodeAnalyzer\CodeAnalyzer.csproj", "{0D0EDABA-5A4B-4B04-A06A-D94241ACAD3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{56F46FA3-B523-4BF5-BE9E-6E8AF3ED327F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56F46FA3-B523-4BF5-BE9E-6E8AF3ED327F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56F46FA3-B523-4BF5-BE9E-6E8AF3ED327F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0EDABA-5A4B-4B04-A06A-D94241ACAD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0EDABA-5A4B-4B04-A06A-D94241ACAD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0EDABA-5A4B-4B04-A06A-D94241ACAD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0EDABA-5A4B-4B04-A06A-D94241ACAD3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
