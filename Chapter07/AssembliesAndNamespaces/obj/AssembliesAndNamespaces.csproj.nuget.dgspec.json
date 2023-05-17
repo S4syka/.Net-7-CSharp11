@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\SharedLibrary\\SharedLibrary.csproj": {}
+    "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\SharedLibrary\\SharedLibrary.csproj": {
-      "version": "7.0.0",
+    "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
-        "projectName": "Packt.CSdotnet.SharedLibrary",
-        "projectPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+        "projectName": "AssembliesAndNamespaces",
+        "projectPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
         "packagesPath": "C:\\Users\\erekl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\SharedLibrary\\obj\\",
+        "outputPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\AssembliesAndNamespaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -41,14 +41,12 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
+            "newtonsoft.json": {
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -62,6 +60,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }

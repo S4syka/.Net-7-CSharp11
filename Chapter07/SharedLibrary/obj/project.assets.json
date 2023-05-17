@@ -184,10 +184,10 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "7.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
-      "projectName": "SharedLibrary",
+      "projectName": "Packt.CSdotnet.SharedLibrary",
       "projectPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
       "packagesPath": "C:\\Users\\erekl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter07\\SharedLibrary\\obj\\",
