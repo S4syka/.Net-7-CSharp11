@@ -1,4 +1,5 @@
 ﻿using System.Numerics;
+using System.Text.RegularExpressions;
 
 //WriteLine("Working with large integers:");
 //WriteLine("-----------------------------------");
@@ -15,3 +16,5 @@ int dieRoll = r.Next(minValue: 1, maxValue: 7); // returns 1 to 6
 double randomReal = r.NextDouble(); // returns 0.0 to less than 1.0
 byte[] arrayOfBytes = new byte[256];
 r.NextBytes(arrayOfBytes); // 256 random bytes in an array
+
+Regex csv = new("(?:^|,)(?=[^\"]|(\")?)\"?((?(1)[^\"]*|[^,\"]*))\"?(?=,|$)");
