@@ -1,0 +1,13 @@
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\bin\Debug\net7.0\DotNetEverywhere.exe
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\bin\Debug\net7.0\DotNetEverywhere.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\bin\Debug\net7.0\DotNetEverywhere.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\bin\Debug\net7.0\DotNetEverywhere.dll
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.dll
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\obj\Debug\net7.0\refint\DotNetEverywhere.dll
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter07\DotNetEverywhere\obj\Debug\net7.0\ref\DotNetEverywhere.dll
