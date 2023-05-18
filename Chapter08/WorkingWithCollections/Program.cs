@@ -84,3 +84,24 @@ Output("Current queue from front to back", coffee);
 
 Console.WriteLine($"{coffee.Peek()} is next in line.");
 Output("Current queue from front to back", coffee);
+
+PriorityQueue<string, int> vaccine = new();
+
+vaccine.Enqueue("Pamela", 1); // my mum (70s)
+vaccine.Enqueue("Rebecca", 3); // my niece (teens)
+vaccine.Enqueue("Juliet", 2); // my sister (40s)
+vaccine.Enqueue("Ian", 1); // my dad (70s)
+
+OutputPQ("Current queue for vaccination:", vaccine.UnorderedItems);
+
+Console.WriteLine($"{vaccine.Dequeue()} has been vaccinated.");
+Console.WriteLine($"{vaccine.Dequeue()} has been vaccinated.");
+OutputPQ("Current queue for vaccination:", vaccine.UnorderedItems);
+
+Console.WriteLine($"{vaccine.Dequeue()} has been vaccinated.");
+
+Console.WriteLine("Adding Mark to queue with priority 2");
+vaccine.Enqueue("Mark", 2); // me (40s)
+
+Console.WriteLine($"{vaccine.Peek()} will be next to be vaccinated.");
+OutputPQ("Current queue for vaccination:", vaccine.UnorderedItems);
