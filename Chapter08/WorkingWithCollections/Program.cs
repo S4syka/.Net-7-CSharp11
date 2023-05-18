@@ -63,3 +63,24 @@ foreach (KeyValuePair<string, string> item in keywords)
 // look up a value using a key
 string key = "long";
 Console.WriteLine($"The definition of {key} is {keywords[key]}");
+
+Queue<string> coffee = new();
+
+coffee.Enqueue("Damir"); // front of queue
+coffee.Enqueue("Andrea");
+coffee.Enqueue("Ronald");
+coffee.Enqueue("Amin");
+coffee.Enqueue("Irina"); // back of queue
+Output("Initial queue from front to back", coffee);
+
+// server handles next person in queue
+string served = coffee.Dequeue();
+Console.WriteLine($"Served: {served}.");
+
+// server handles next person in queue
+served = coffee.Dequeue();
+Console.WriteLine($"Served: {served}.");
+Output("Current queue from front to back", coffee);
+
+Console.WriteLine($"{coffee.Peek()} is next in line.");
+Output("Current queue from front to back", coffee);
