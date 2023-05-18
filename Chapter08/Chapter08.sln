@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithNumbers", "WorkingWithNumbers\WorkingWithNumbers.csproj", "{EB5DC13B-1056-4AF9-94E8-CC402074787F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithNumbers", "WorkingWithNumbers\WorkingWithNumbers.csproj", "{EB5DC13B-1056-4AF9-94E8-CC402074787F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithRegularExpressions", "WorkingWithRegularExpressions\WorkingWithRegularExpressions.csproj", "{8C796539-F04A-4134-BB90-4DF757C6D4AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithRegularExpressions", "WorkingWithRegularExpressions\WorkingWithRegularExpressions.csproj", "{8C796539-F04A-4134-BB90-4DF757C6D4AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCollections", "WorkingWithCollections\WorkingWithCollections.csproj", "{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8C796539-F04A-4134-BB90-4DF757C6D4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C796539-F04A-4134-BB90-4DF757C6D4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C796539-F04A-4134-BB90-4DF757C6D4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
