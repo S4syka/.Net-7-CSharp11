@@ -24,3 +24,42 @@ Output("After inserting Sydney at index 0", cities);
 cities.RemoveAt(1);
 cities.Remove("Milan");
 Output("After removing two cities", cities);
+
+
+
+Dictionary<string, string> keywords = new();
+
+// add using named parameters
+keywords.Add(key: "int", value: "32-bit integer data type");
+// add using positional parameters
+keywords.Add("long", "64-bit integer data type"); 
+keywords.Add("float", "Single precision floating point number");
+
+/* Alternative syntax; compiler converts this to calls to Add method
+Dictionary<string, string> keywords = new()
+{
+ { "int", "32-bit integer data type" },
+ { "long", "64-bit integer data type" },
+ { "float", "Single precision floating point number" },
+}; */
+/* Alternative syntax; compiler converts this to calls to Add method
+ Dictionary<string, string> keywords = new()
+{
+ ["int"] = "32-bit integer data type",
+ ["long"] = "64-bit integer data type",
+ ["float"] = "Single precision floating point number", // last comma is 
+optional
+}; */
+
+Output("Dictionary keys:", keywords.Keys);
+Output("Dictionary values:", keywords.Values);
+Console.WriteLine("Keywords and their definitions");
+
+foreach (KeyValuePair<string, string> item in keywords)
+{
+    Console.WriteLine($" {item.Key}: {item.Value}");
+}
+
+// look up a value using a key
+string key = "long";
+Console.WriteLine($"The definition of {key} is {keywords[key]}");
