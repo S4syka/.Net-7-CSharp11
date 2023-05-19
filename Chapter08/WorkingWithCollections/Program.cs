@@ -1,4 +1,6 @@
-﻿// Simple syntax for creating a list and adding three items
+﻿using System.Collections.Immutable;
+
+// Simple syntax for creating a list and adding three items
 List<string> cities = new();
 
 cities.Add("London");
@@ -32,7 +34,7 @@ Dictionary<string, string> keywords = new();
 // add using named parameters
 keywords.Add(key: "int", value: "32-bit integer data type");
 // add using positional parameters
-keywords.Add("long", "64-bit integer data type"); 
+keywords.Add("long", "64-bit integer data type");
 keywords.Add("float", "Single precision floating point number");
 
 /* Alternative syntax; compiler converts this to calls to Add method
@@ -105,3 +107,9 @@ vaccine.Enqueue("Mark", 2); // me (40s)
 
 Console.WriteLine($"{vaccine.Peek()} will be next to be vaccinated.");
 OutputPQ("Current queue for vaccination:", vaccine.UnorderedItems);
+
+ImmutableList<string> immutableCities = cities.ToImmutableList();
+ImmutableList<string> newList = immutableCities.Add("Gori");
+
+Output("Immutable list", immutableCities);
+Output("New list", newList);
