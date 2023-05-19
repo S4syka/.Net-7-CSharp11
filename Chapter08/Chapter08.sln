@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithNumbers", "Worki
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithRegularExpressions", "WorkingWithRegularExpressions\WorkingWithRegularExpressions.csproj", "{8C796539-F04A-4134-BB90-4DF757C6D4AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCollections", "WorkingWithCollections\WorkingWithCollections.csproj", "{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithCollections", "WorkingWithCollections\WorkingWithCollections.csproj", "{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithRanges", "WorkingWithRanges\WorkingWithRanges.csproj", "{9C6AA32D-ECB7-4966-96D1-D8B5C6160462}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54481EEA-AB9B-411C-99AA-E2BE7F2B7319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6AA32D-ECB7-4966-96D1-D8B5C6160462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6AA32D-ECB7-4966-96D1-D8B5C6160462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6AA32D-ECB7-4966-96D1-D8B5C6160462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6AA32D-ECB7-4966-96D1-D8B5C6160462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
