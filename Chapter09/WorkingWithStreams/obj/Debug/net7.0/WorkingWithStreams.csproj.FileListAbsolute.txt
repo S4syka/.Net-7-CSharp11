@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.exe
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\refint\WorkingWithStreams.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\ref\WorkingWithStreams.dll
