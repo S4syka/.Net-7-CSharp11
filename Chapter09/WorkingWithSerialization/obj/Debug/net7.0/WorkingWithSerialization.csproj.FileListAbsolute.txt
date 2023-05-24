@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.exe
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\refint\WorkingWithSerialization.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\ref\WorkingWithSerialization.dll

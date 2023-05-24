@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithStreams", "Worki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithTarArchives", "WorkingWithTarArchives\WorkingWithTarArchives.csproj", "{E89DF570-AC08-4D26-BED9-B0208980063B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSerialization", "WorkingWithSerialization\WorkingWithSerialization.csproj", "{6F98E60E-C524-460E-890C-0AD05B6BC473}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E89DF570-AC08-4D26-BED9-B0208980063B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E89DF570-AC08-4D26-BED9-B0208980063B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E89DF570-AC08-4D26-BED9-B0208980063B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F98E60E-C524-460E-890C-0AD05B6BC473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F98E60E-C524-460E-890C-0AD05B6BC473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F98E60E-C524-460E-890C-0AD05B6BC473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F98E60E-C524-460E-890C-0AD05B6BC473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
