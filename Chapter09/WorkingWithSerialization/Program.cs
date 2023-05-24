@@ -1,5 +1,6 @@
 ﻿using Packt.Shared; // Person 
 using System.Xml.Serialization;
+using FastJson = System.Text.Json.JsonSerializer;
 
 using static System.Environment;
 using static System.IO.Path;
@@ -61,6 +62,35 @@ using (FileStream xmlLoad = File.Open(path, FileMode.Open))
         foreach(Person p in loadedPeople)
         {
             Console.WriteLine("{0} has {1} children.", p.LastName, p.Children?.Count ?? 0);
+        }
+    }
+}
+
+string jsonPath = Path.Combine(CurrentDirectory, "people.json");
+
+using (StreamWriter jsonStream = File.CreateText(jsonPath))
+{
+    Newtonsoft.Json.JsonSerializer jss = new();
+
+    jss.Serialize(jsonStream, people);
+}
+
+Console.WriteLine();
+Console.WriteLine("Written {0:N0} bytes of JSON to {1}", new FileInfo(jsonPath).Length, jsonPath);
+
+Console.WriteLine(File.ReadAllText(jsonPath));
+
+using (FileStream jsonLoad = File.Open(jsonPath, FileMode.Open))
+{
+    // deserialize object graph into a List of Person
+    List<Person>? loadedPeople = await FastJson.DeserializeAsync(utf8Json: jsonLoad,
+    returnType: typeof(List<Person>)) as List<Person>;
+    if (loadedPeople is not null)
+    {
+        foreach (Person p in loadedPeople)
+        {
+            Console.WriteLine("{0} has {1} children.",
+            p.LastName, p.Children?.Count ?? 0);
         }
     }
 }

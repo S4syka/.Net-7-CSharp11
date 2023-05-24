@@ -13,3 +13,5 @@ C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0
 C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.pdb
 C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.genruntimeconfig.cache
 C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\ref\WorkingWithSerialization.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CopyComplete

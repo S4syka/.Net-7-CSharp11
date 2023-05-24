@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Gx/uNtXskK9fCiGyDKRzl0P8evkR+jm0h6bizh32YUpjY15ZyPmfB+Qceyj8TzbVBRcTQnzPWTftMRVBE+71gg==",
+  "dgSpecHash": "txLIurQDhNGIQ8O5pOKJthnVoTU5qSObd049uKznkeSWVjLYlSiUvRuTBdTYebo1+dpDgFs4qcNnSX7LH1I+SQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\erekl\\mycs11dotnet7\\Chapter09\\WorkingWithSerialization\\WorkingWithSerialization.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\erekl\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
