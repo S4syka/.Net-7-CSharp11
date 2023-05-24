@@ -1,0 +1,15 @@
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\bin\Debug\net7.0\WorkingWIthJson.exe
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\bin\Debug\net7.0\WorkingWIthJson.deps.json
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\bin\Debug\net7.0\WorkingWIthJson.runtimeconfig.json
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\bin\Debug\net7.0\WorkingWIthJson.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\bin\Debug\net7.0\WorkingWIthJson.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\WorkingWIthJson.csproj.AssemblyReference.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\WorkingWIthJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\WorkingWIthJson.AssemblyInfoInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\WorkingWIthJson.AssemblyInfo.cs
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\WorkingWIthJson.csproj.CoreCompileInputs.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\WorkingWIthJson.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\refint\WorkingWIthJson.dll
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\WorkingWIthJson.pdb
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\WorkingWIthJson.genruntimeconfig.cache
+C:\Users\erekl\mycs11dotnet7\Chapter09\WorkingWIthJson\obj\Debug\net7.0\ref\WorkingWIthJson.dll
