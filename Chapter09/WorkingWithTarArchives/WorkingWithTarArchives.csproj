@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+    <ItemGroup>
+        <Using Include="System.Console" Static="true" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="images\brown-hair-mangaka-clothing-anime-super-sonico-13ec8e4630bffbe1ad6dcd0ed9161586.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="images\brown-hair-mangaka-pin-up-girl-anime-anime-9cd8eb7622ac1a832c23ef9dae1811c6.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="images\erza-scarlet-fairy-tail-manga-juvia-lockser-anime-girl-sexy-8e566205ecfe045b6f51e46458f28806.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="images\kantai-collection-japanese-destroyer-hamakaze-anime-hair-japanese-destroyer-shimakaze-a-girl-with-a-ponytail-4eb6ec9f12d20749a01c44425f5ef501.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="images\pixiv-inc-anime-super-sonico-others-f1d2c7884f38b995095783166281b24e.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+</Project>

@@ -1,0 +1,49 @@
+﻿using System.ComponentModel;
+using System.Formats.Tar;
+
+try
+{
+    string current = Environment.CurrentDirectory;
+    WriteInformation($"Current directory:   {current}");
+
+    string sourceDirectory = Path.Combine(current, "images");
+    string destinationDirectory = Path.Combine(current, "extracted");
+    string tarFile = Path.Combine(current, "images-archive.tar");
+
+    if (!Directory.Exists(sourceDirectory))
+    {
+        WriteError($"The {sourceDirectory} must exist. Please create it and add some files to it.");
+        return;
+    }
+
+    if (File.Exists(tarFile))
+    {
+        File.Delete(tarFile);
+        WriteWarning($"{tarFile} file already existed and it was deleted");
+    }
+
+    WriteInformation($"Archiving directory: {sourceDirectory}\n To .tar file:{tarFile}");
+    TarFile.CreateFromDirectory(sourceDirectory, tarFile, true);
+
+    if (!Directory.Exists(destinationDirectory))
+    {
+        Directory.CreateDirectory(destinationDirectory);
+        WriteWarning($"{destinationDirectory} didn't exist and it was created.");
+    }
+
+    WriteInformation($"Extracting archive: {tarFile}\n To directory: {destinationDirectory}");
+
+    TarFile.ExtractToDirectory(tarFile, destinationDirectory, true);
+
+    if (Directory.Exists(destinationDirectory))
+    {
+        foreach (string dir in Directory.GetDirectories(destinationDirectory))
+        {
+            WriteInformation($"Extracted directory {dir} containing these files: " + string.Join(',', Directory.EnumerateFiles(dir).Select(file => Path.GetFileName(file))));
+        }
+    }
+}
+catch(Exception ex)
+{
+    WriteError(ex.Message);
+}
