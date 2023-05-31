@@ -1,4 +1,6 @@
 ﻿using Packt.Shared;
 
-Northwind db = new();
-WriteLine($"Provider: {db.Database.ProviderName}");
+//Northwind db = new();
+//WriteLine($"Provider: {db.Database.ProviderName}");
+
+QueryingCategories();

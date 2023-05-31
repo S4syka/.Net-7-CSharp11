@@ -60,3 +60,4 @@ C:\Users\erekl\mycs11dotnet7\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Humani
 C:\Users\erekl\mycs11dotnet7\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\erekl\mycs11dotnet7\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\erekl\mycs11dotnet7\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\erekl\mycs11dotnet7\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Northwind4SQLite.sql
