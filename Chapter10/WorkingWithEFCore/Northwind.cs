@@ -21,7 +21,7 @@ public class Northwind : DbContext
 
         optionsBuilder.UseSqlite(connection);
 
-        optionsBuilder.LogTo(Console.WriteLine).EnableSensitiveDataLogging();
+        //optionsBuilder.LogTo(Console.WriteLine).EnableSensitiveDataLogging();
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

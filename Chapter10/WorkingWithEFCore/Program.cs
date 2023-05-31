@@ -5,4 +5,6 @@
 
 //QueryingCategories();
 
-FilteredIncludes();
+//FilteredIncludes();
+
+QueryingWithLike();
