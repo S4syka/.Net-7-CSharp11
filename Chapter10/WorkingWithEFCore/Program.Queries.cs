@@ -37,7 +37,7 @@ internal partial class Program
                 input = ReadLine();
             } while (!int.TryParse(input, out stock));
 
-            IQueryable<Category>? categories = db.Categories?.Include(c => c.Products.Where(p => p.Stock >= stock));
+            IQueryable<Category>? categories = db.Categories?.TagWith("Products with big enough stock.").Include(c => c.Products.Where(p => p.Stock >= stock));
 
             if ((categories is null) || (!categories.Any()))
             {
