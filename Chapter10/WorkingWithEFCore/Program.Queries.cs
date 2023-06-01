@@ -49,7 +49,7 @@ internal partial class Program
             {
                 WriteLine($"{c.CategoryName} has {c.Products.Count} products with a minimum of {stock} units in stock.");
 
-                foreach(Product p in c.Products)
+                foreach (Product p in c.Products)
                 {
                     if (p.Stock >= stock)
                     {
@@ -62,7 +62,7 @@ internal partial class Program
 
     static void QueryingWithLike()
     {
-        using(Northwind db = new())
+        using (Northwind db = new())
         {
             SectionTitle("Pattern matching with LIKE.");
 
@@ -88,6 +88,34 @@ internal partial class Program
                 WriteLine("{0} has {1} units in stock. Discontinued? {2}",
                 p.ProductName, p.Stock, p.Discontinued);
             }
+        }
+    }
+
+    static void GetRandomProduct()
+    {
+        using (Northwind db = new())
+        {
+            SectionTitle("Get a random product.");
+
+            int? rowCount = db.Products?.Count();
+
+            IQueryable<Product>? products = db.Products;
+
+            if ((products == null) || (!products.Any()) || rowCount == null)
+            {
+                Fail("No products found.");
+                return;
+            }
+
+            Product? p = products?.FirstOrDefault(p => p.ProductId == (int)(EF.Functions.Random() * rowCount));
+
+            if (p == null)
+            {
+                Fail("Product not found.");
+                return;
+            }
+
+            Console.WriteLine($"Random product: {p.ProductId} {p.ProductName}");
         }
     }
 }
