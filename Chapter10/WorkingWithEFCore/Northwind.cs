@@ -31,6 +31,9 @@ public class Northwind : DbContext
             .IsRequired()
             .HasMaxLength(15);
 
+        modelBuilder.Entity<Product>()
+            .HasQueryFilter(p => !p.Discontinued);
+
         if(Database.ProviderName?.Contains("Sqlite") ?? false)
         {
             modelBuilder.Entity<Product>()

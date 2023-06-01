@@ -7,6 +7,6 @@
 
 //FilteredIncludes();
 
-//QueryingWithLike();
+QueryingWithLike();
 
-GetRandomProduct();
+//GetRandomProduct();
