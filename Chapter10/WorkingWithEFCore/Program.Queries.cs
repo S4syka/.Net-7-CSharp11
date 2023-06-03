@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Packt.Shared;
 
 internal partial class Program
@@ -7,16 +8,44 @@ internal partial class Program
     {
         using (Northwind db = new())
         {
-            IQueryable<Category>? categories = db.Categories?.Include(c => c.Products);
+            IQueryable<Category>? categories;
+            // = db.Categories;
+            // .Include(c => c.Products);
 
-            if ((categories is null) || (!categories.Any()))
+            db.ChangeTracker.LazyLoadingEnabled = false;
+
+            Write("Enable eager loading? (Y/N): ");
+            bool eagerLoading = (ReadKey(intercept: true).Key == ConsoleKey.Y);
+            bool explicitLoading = false;
+            
+            WriteLine();
+            if (eagerLoading)
             {
-                Fail("No categories found");
-                return;
+                categories = db.Categories?.Include(c => c.Products);
+            }
+            else
+            {
+                categories = db.Categories;
+                Write("Enable explicit loading? (Y/N): ");
+                explicitLoading = (ReadKey(intercept: true).Key == ConsoleKey.Y);
+                WriteLine();
             }
 
             foreach (Category c in categories)
             {
+                if (explicitLoading)
+                {
+                    Write($"Explicitly load products for {c.CategoryName}? (Y/N): ");
+                    ConsoleKeyInfo key = ReadKey(intercept: true);
+                    WriteLine();
+                    if (key.Key == ConsoleKey.Y)
+                    {
+                        CollectionEntry<Category, Product> products =
+                        db.Entry(c).Collection(c2 => c2.Products);
+                        if (!products.IsLoaded) products.Load();
+                    }
+                }
+
                 Console.WriteLine($"{c.CategoryName} has {c.Products.Count()} products.");
             }
         }
@@ -118,4 +147,6 @@ internal partial class Program
             Console.WriteLine($"Random product: {p.ProductId} {p.ProductName}");
         }
     }
+
+
 }
