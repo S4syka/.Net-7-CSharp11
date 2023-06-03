@@ -31,7 +31,7 @@ internal partial class Program
                 WriteLine();
             }
 
-            foreach (Category c in categories)
+            foreach (Category c in categories!)
             {
                 if (explicitLoading)
                 {
