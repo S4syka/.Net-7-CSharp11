@@ -57,5 +57,47 @@ internal partial class Program
             return (affected, p.ProductId);
         }
     }
+
+    static (int affected, int productId) IncreaseProductPrice(string productNameStartsWith, decimal amount)
+    {
+        using (Northwind db = new())
+        {
+            if(db.Products == null || !db.Products.Any())
+            {
+                Fail("There are no products in the db.");
+                return (0,0);
+            }
+
+            Product updateProduct = db.Products.First(p => p.ProductName.StartsWith(productNameStartsWith));
+
+            updateProduct.Cost += amount;
+
+            return (db.SaveChanges(), updateProduct.ProductId);
+        }
+    }
+
+    static int DeleteProducts(string productNameStartsWith)
+    {
+        using (Northwind db = new())
+        {
+            if (db.Products == null || !db.Products.Any())
+            {
+                Fail("There are no products in the db.");
+                return 0;
+            }
+
+            IQueryable<Product>? products = db.Products?.Where(p => p.ProductName.StartsWith(productNameStartsWith));
+
+            if (products == null || !products.Any())
+            {
+                Fail("There are no products to delete!");
+                return 0;
+            }
+
+            db.Products?.RemoveRange(products);
+
+            return db.SaveChanges();
+        }
+    }
 }
 
