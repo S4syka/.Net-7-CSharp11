@@ -1,12 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.ChangeTracking;
+﻿using Microsoft.EntityFrameworkCore.ChangeTracking;
+using Microsoft.EntityFrameworkCore.Storage; //IDbContextTransaction
 using Packt.Shared;
-using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 internal partial class Program
 {
@@ -25,14 +20,14 @@ internal partial class Program
 
             ConsoleColor previousColor = Console.ForegroundColor;
 
-            foreach(Product p in db.Products)
+            foreach (Product p in db.Products)
             {
                 if (productIdsToHighlight != null && productIdsToHighlight.Contains(p.ProductId))
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
                 }
 
-                WriteLine("| {0:000} | {1,-35} | {2,8:$#,##0.00} | {3,5} | {4} |", 
+                WriteLine("| {0:000} | {1,-35} | {2,8:$#,##0.00} | {3,5} | {4} |",
                     p.ProductId, p.ProductName, p.Cost, p.Stock, p.Discontinued);
 
                 ForegroundColor = previousColor;
@@ -62,10 +57,10 @@ internal partial class Program
     {
         using (Northwind db = new())
         {
-            if(db.Products == null || !db.Products.Any())
+            if (db.Products == null || !db.Products.Any())
             {
                 Fail("There are no products in the db.");
-                return (0,0);
+                return (0, 0);
             }
 
             Product updateProduct = db.Products.First(p => p.ProductName.StartsWith(productNameStartsWith));
@@ -76,27 +71,52 @@ internal partial class Program
         }
     }
 
+    //static int DeleteProducts(string productNameStartsWith)
+    //{
+    //    using (Northwind db = new())
+    //    {
+    //        if (db.Products == null || !db.Products.Any())
+    //        {
+    //            Fail("There are no products in the db.");
+    //            return 0;
+    //        }
+
+    //        IQueryable<Product>? products = db.Products?.Where(p => p.ProductName.StartsWith(productNameStartsWith));
+
+    //        if (products == null || !products.Any())
+    //        {
+    //            Fail("There are no products to delete!");
+    //            return 0;
+    //        }
+
+    //        db.Products?.RemoveRange(products);
+
+    //        return db.SaveChanges();
+    //    }
+    //}
+
     static int DeleteProducts(string productNameStartsWith)
     {
         using (Northwind db = new())
         {
-            if (db.Products == null || !db.Products.Any())
+            using (IDbContextTransaction t = db.Database.BeginTransaction())
             {
-                Fail("There are no products in the db.");
-                return 0;
+                IQueryable<Product>? products = db.Products?.Where(p => p.ProductName.StartsWith(productNameStartsWith));
+
+                if ((products is null) || (!products.Any()))
+                {
+                    WriteLine("No products found to delete.");
+                    return 0;
+                }
+                else
+                {
+                    db.Products?.RemoveRange(products);
+                }
+
+                int affected = db.SaveChanges();
+                t.Commit();
+                return affected;
             }
-
-            IQueryable<Product>? products = db.Products?.Where(p => p.ProductName.StartsWith(productNameStartsWith));
-
-            if (products == null || !products.Any())
-            {
-                Fail("There are no products to delete!");
-                return 0;
-            }
-
-            db.Products?.RemoveRange(products);
-
-            return db.SaveChanges();
         }
     }
 }
