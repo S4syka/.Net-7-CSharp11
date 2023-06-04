@@ -31,4 +31,23 @@ partial class Program
             }
         }
     }
+
+    static void JoinCategoriesAndProducts()
+    {
+        SectionTitle("Join categories and products.");
+
+        using (Northwind db = new())
+        {
+            var queryJoin = db.Categories
+                .Join(db.Products, c => c.CategoryId, p => p.CategoryId,
+                (c, p) => new { c.CategoryName, p.ProductName, p.ProductId });
+
+            Console.WriteLine(queryJoin.ToQueryString());
+
+            foreach (var item in queryJoin)
+            {
+                Console.WriteLine("{0}: {1} is in {2}.", item.ProductId, item.ProductName, item.CategoryName);
+            }
+        }
+    }
 }

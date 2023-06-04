@@ -1,1 +1,3 @@
-﻿FilterAndSort();
+﻿//FilterAndSort();
+
+JoinCategoriesAndProducts();
