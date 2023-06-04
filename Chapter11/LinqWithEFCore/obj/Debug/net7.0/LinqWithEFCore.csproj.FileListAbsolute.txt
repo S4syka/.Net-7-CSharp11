@@ -90,3 +90,4 @@ C:\Users\erekl\mycs11dotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\refint\Li
 C:\Users\erekl\mycs11dotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.pdb
 C:\Users\erekl\mycs11dotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.genruntimeconfig.cache
 C:\Users\erekl\mycs11dotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\ref\LinqWithEFCore.dll
+C:\Users\erekl\mycs11dotnet7\Chapter11\LinqWithEFCore\bin\Debug\net7.0\Northwind.db
