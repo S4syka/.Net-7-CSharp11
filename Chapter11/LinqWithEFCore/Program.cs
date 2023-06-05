@@ -2,4 +2,6 @@
 
 //JoinCategoriesAndProducts();
 
-GroupJoinCategoriesAndProducts();
+//GroupJoinCategoriesAndProducts();
+
+PagingProducts();
