@@ -2,6 +2,8 @@ using Packt.Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<NorthwindContext>();
+
 var app = builder.Build();
 
 if (!app.Environment.IsDevelopment())
