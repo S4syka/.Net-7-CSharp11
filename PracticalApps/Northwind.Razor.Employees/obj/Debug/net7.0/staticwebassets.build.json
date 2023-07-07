@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "j5K/lcH6fsIP0RjbxPGOdK1CCNYvaj1Y7wq2JS4fpY8=",
+  "Source": "Northwind.Razor.Employees",
+  "BasePath": "_content/Northwind.Razor.Employees",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind.Razor.Employees\\wwwroot",
+      "Source": "Northwind.Razor.Employees",
+      "ContentRoot": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\wwwroot\\",
+      "BasePath": "_content/Northwind.Razor.Employees",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Northwind.Razor.Employees.styles.css",
+      "SourceId": "Northwind.Razor.Employees",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Northwind.Razor.Employees",
+      "RelativePath": "Northwind.Razor.Employees.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Northwind.Razor.Employees.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Northwind.Razor.Employees.bundle.scp.css",
+      "SourceId": "Northwind.Razor.Employees",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Northwind.Razor.Employees",
+      "RelativePath": "Northwind.Razor.Employees.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Northwind.Razor.Employees.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\wwwroot\\background.png",
+      "SourceId": "Northwind.Razor.Employees",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\wwwroot\\",
+      "BasePath": "_content/Northwind.Razor.Employees",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "Northwind.Razor.Employees",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Razor.Employees\\wwwroot\\",
+      "BasePath": "_content/Northwind.Razor.Employees",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

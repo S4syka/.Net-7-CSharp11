@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "feZ79m93Kj5LPZnpHNhMqzFAi3roglwUXq8pagqA8dVjNpp6+lhuTpBiZFxbn7AOI6NfDx9BDM8wuU0tj5EVkw==",
+  "dgSpecHash": "XDQ+ogqPHEFBlm3u8UwUP+3cIa/629WlZnAEylAMllhUP0ZhsPSV4MrZGsvc/YzovXvTh4pM4uBgYtPz1yAmFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
   "expectedPackageFiles": [
