@@ -5,6 +5,42 @@
       "PackagePath": "staticwebassets\\Northwind.Mvc.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\Images\\categories.jpeg",
+      "PackagePath": "staticwebassets\\Images\\categories.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\Images\\category1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\category1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\Images\\category2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\category2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\Images\\category3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\category3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\Images\\category4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\category4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\Images\\category5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\category5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\Images\\category6.jpeg",
+      "PackagePath": "staticwebassets\\Images\\category6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\Images\\category7.jpeg",
+      "PackagePath": "staticwebassets\\Images\\category7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\Images\\category8.jpeg",
+      "PackagePath": "staticwebassets\\Images\\category8.jpeg"
+    },
+    {
       "Id": "C:\\Users\\erekl\\mycs11dotnet7\\PracticalApps\\Northwind.Mvc\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
